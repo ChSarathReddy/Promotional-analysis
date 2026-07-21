@@ -60,7 +60,7 @@ Promo type view → which promo formats to scale up (unit-drivers) vs which to u
 Category/product view → which products deserve featured promo slots vs which are dead weight in a campaign
 
 
-**Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiMjE4YmI4NzgtNmVkNC00ZTgxLTk5Y2QtOTZiM2FmZGVhMmQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiZDU5ZTg5MGItZTdmNC00YmFiLTllYzAtZTRkYmVmMDkxZWU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
